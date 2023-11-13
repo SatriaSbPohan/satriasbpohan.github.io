@@ -365,6 +365,19 @@ body {
     grid-area: tujuh;
     background-image: url("../images/7.jpeg");
 }
+.tglfoto {
+    position: absolute;
+    bottom: 0%;
+    padding: 5px;
+    border-top-right-radius: 12px;
+    border-bottom-left-radius: 12px;
+    color: white;
+    /* background-color: rgb(160, 66, 66); */
+    background-image: conic-gradient(at 50% 0%, rgb(66, 82, 80), rgb(66, 82, 80), rgb(160, 66, 66), rgb(160, 66, 66));
+}
+.ftb {
+    /* opacity: 0%; */
+}
 
 .box-galeri {
     position: relative;
@@ -526,6 +539,13 @@ body {
     .menu2 a:hover {
         color: black;
         background-color: white;
+    }
+
+    .tglfoto {
+        font-size: 5px;
+    }
+    .btn {
+        opacity: 0;
     }
     #logo {
         width: fit-content;
