@@ -137,9 +137,9 @@ body {
 }
 .fpic {
     margin-left: 14vh;
-    height: 470px;
-    width: 380px;
-    border-bottom: white 2px solid;
+    height: 380px;
+    width: auto;
+    /* border-bottom: white 2px solid; */
     /* border: white inset 4px;
     border-left: none;
     border-top: none; */
@@ -633,4 +633,5 @@ body {
     .info {
         font-size: 10px;
     }
+
 }
