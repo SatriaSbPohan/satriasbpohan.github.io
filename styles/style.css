@@ -302,7 +302,7 @@ body {
 }
 
 .profile {
-    width: 300px;
+    width: auto;
     height: 400px;
     margin: 20px;
     /* border: 1px red solid; */
@@ -635,3 +635,4 @@ body {
     }
 
 }
+
